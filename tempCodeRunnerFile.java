@@ -1,0 +1,1 @@
+System.out.printf("\tПродолжительность цветения: %s\n", plants[i].bloom);
